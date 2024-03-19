@@ -1,0 +1,22 @@
+body {
+    overflow-y: scroll;
+}
+
+::-webkit-scrollbar-track
+{
+	border-radius: 10px;
+	background-color: transparent;
+}
+
+::-webkit-scrollbar
+{
+	width: 6px;
+    height: 6px;
+	background-color: transparent;
+}
+
+::-webkit-scrollbar-thumb
+{
+	border-radius: 10px;
+	background-color: #b6b6b6;
+}
